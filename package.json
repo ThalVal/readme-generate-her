@@ -1,14 +1,22 @@
 {
   "name": "readme-generate-her",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)",
   "main": "index.js",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
-  "author": "",
+  "author": "ThalVal",
   "license": "ISC",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "inquirer": "^8.2.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "readme-generate-her"
+  },
+  "keywords": [
+    "readme"
+  ]
 }

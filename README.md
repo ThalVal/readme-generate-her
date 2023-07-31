@@ -1,9 +1,8 @@
-# readme gen
+# README Generator 
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-  
   ## Description 
-  osbcascbk
+  This application will create/generate a high-quality, professional README with the help of a series of questions a user answers in their command line using Node.js
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,19 +13,21 @@
   * [Questions](#questions)
   
   ## Installation 
-  aksjcbxk
+  The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. 
 
   ## Usage 
-  kajbckajb
+  Use inquirer from your command line to answer questions about your project.
+  <img src="utils/README-GENERATOR (1).gif"><br>
+  Or view link here - [Screencastify](https://drive.google.com/file/d/1L59uBnHWqkOiv5k9UkQEpBJuVX4CRidP/view)
 
   ## License 
   This project is license under MIT
 
   ## Contributing 
-  khbcka
+  Contributors should read the installation section. 
 
   ## Tests
-  kajbckb
+  npm test
 
   ## Questions
   If you have any questions about this projects, please contact me directly at vthalissa@yahoo.com. You can view more of my projects at https://github.com/ThalVal.
