@@ -1,7 +1,7 @@
 // require modules 
 const fs = require('fs'); 
 const inquirer = require('inquirer'); 
-const generatePage = require('./readme-generator/utils/generateMarkdown.js');
+const generatePage = require('./readme-generate-her/utils/generateMarkdown.js');
 
 // array of questions for user
 const questions = () => { 
