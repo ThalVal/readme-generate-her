@@ -8,7 +8,7 @@ const questions = () => {
     return inquirer.prompt([
     {
         type: 'input',
-        message: 'Enter your GitHub username?',
+        message: 'Enter your GitHub username.',
         name: 'github',
         validate: nameInput => {
             if (nameInput) {
@@ -21,7 +21,7 @@ const questions = () => {
     },
     {
         type: 'input',
-        message: 'Enter your email address?',
+        message: 'Enter your email address',
         name: 'email',
         validate: nameInput => {
             if (nameInput) {
